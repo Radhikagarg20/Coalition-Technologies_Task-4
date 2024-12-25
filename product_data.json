@@ -1,0 +1,30 @@
+[
+    {
+        "item_name": "Nike Air Max",
+        "stock_quantity": "512",
+        "unit_price": "120",
+        "submission_timestamp": "2024-12-10T15:47:02.123Z",
+        "overall_value": 61440
+    },
+    {
+        "item_name": "Samsung Galaxy S23",
+        "stock_quantity": "235",
+        "unit_price": "899",
+        "submission_timestamp": "2024-12-10T15:47:12.569Z",
+        "overall_value": 211765
+    },
+    {
+        "item_name": "Dell XPS 13",
+        "stock_quantity": "120",
+        "unit_price": "1399",
+        "submission_timestamp": "2024-12-10T15:47:23.789Z",
+        "overall_value": 167880
+    },
+    {
+        "item_name": "Sony WH",
+        "stock_quantity": "405",
+        "unit_price": "349",
+        "submission_timestamp": "2024-12-10T15:47:39.931Z",
+        "overall_value": 141345
+    }
+]
